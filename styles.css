@@ -75,7 +75,7 @@ nav ul li a:hover {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background-image: url('hero-foods.jpg');
+    background-image: url('Hero-foods.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
